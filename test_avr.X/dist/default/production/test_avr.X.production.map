@@ -1,0 +1,1663 @@
+Archive member included to satisfy reference by file (symbol)
+
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              build/default/production/main.o (__do_copy_data)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                              G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o (exit)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+                              build/default/production/HAL/LCD/lcd.o (_sprintf_cdopuxX)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__fmt_d_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__fmt_o_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__fmt_s_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o) (__cvt_u)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__fmt_x_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__pop_int_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o) (__pad)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o) (fputc)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+                              build/default/production/main.o (snprintf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o) (strlen)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o) (tolower)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o) (toupper)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o) (__errno_val)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o) (_Exit)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__vsprintf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o) (__vsnprintf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o) (vsnprintf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o) (vfprintf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o) (__vfprintf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o) (__io_fmt_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o) (__pop_ptr_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o) (__fmt_a_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o) (__pop_float_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (memset)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (strcpy)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o) (__need_printf_64bit_arg_support)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o) (__fmt_f_needed)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (__divmodhi4)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o) (__udivmodsi4)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o) (_exit)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o) (__umoddi3)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o) (__udivmod64)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o) (__negdi2)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__prologue_saves__)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o) (__epilogue_restores__)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o) (__lshrdi3)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o) (__cmpdi2_s8)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (__subsf3)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (__eqsf2)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (__divsf3)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (__fixsfsi)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o) (__fixunssfsi)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (floorf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o) (__gesf2)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o) (__mulsf3)
+g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+
+Allocating common symbols
+Common symbol       size              file
+
+__errno_val         0x2               g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ .bss           0x0000000000000000        0x0 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .rodata.PIND   0x0000000000000000        0x2 build/default/production/main.o
+ .rodata.PORTB  0x0000000000000000        0x2 build/default/production/main.o
+ .rodata.DDRB   0x0000000000000000        0x2 build/default/production/main.o
+ .text          0x0000000000000000        0x0 build/default/production/MCAL/DIO/dio.o
+ .data          0x0000000000000000        0x0 build/default/production/MCAL/DIO/dio.o
+ .bss           0x0000000000000000        0x0 build/default/production/MCAL/DIO/dio.o
+ .text.dio_pin_toggle
+                0x0000000000000000       0x52 build/default/production/MCAL/DIO/dio.o
+ .text.dio_pin_read
+                0x0000000000000000       0x44 build/default/production/MCAL/DIO/dio.o
+ .text.dio_port_write
+                0x0000000000000000       0x20 build/default/production/MCAL/DIO/dio.o
+ .text.dio_port_read
+                0x0000000000000000       0x2e build/default/production/MCAL/DIO/dio.o
+ .text          0x0000000000000000        0x0 build/default/production/HAL/LCD/lcd.o
+ .data          0x0000000000000000        0x0 build/default/production/HAL/LCD/lcd.o
+ .bss           0x0000000000000000        0x0 build/default/production/HAL/LCD/lcd.o
+ .text.lcd_shift
+                0x0000000000000000       0x4e build/default/production/HAL/LCD/lcd.o
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x73 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .stack.descriptors
+                0x0000000000000000       0x3c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .text.__sio_sprintf_doux
+                0x0000000000000000       0x1a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .text.__fmt_d  0x0000000000000000       0xe4 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .comment       0x0000000000000000       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_d.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .text.__fmt_o  0x0000000000000000       0xb2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .comment       0x0000000000000000       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_o.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .stack.descriptors
+                0x0000000000000000       0x2a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .text.__cvt_u  0x0000000000000000       0xca g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .text.__fmt_u  0x0000000000000000       0x8e g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .comment       0x0000000000000000       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_u.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .text.__fmt_x  0x0000000000000000      0x1dc g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .comment       0x0000000000000000       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_x.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .text.__pop_int
+                0x0000000000000000       0xd0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .comment       0x0000000000000000       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_int.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .stack.descriptors
+                0x0000000000000000       0x91 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .text.read_prec_or_width
+                0x0000000000000000       0x5c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .text.vfpfcnvrt
+                0x0000000000000000      0x3fc g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .rodata.nilstr.2962
+                0x0000000000000000        0x6 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .stack.descriptors
+                0x0000000000000000       0x14 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .stack.descriptors
+                0x0000000000000000       0x2e g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text.__tolower_l
+                0x0000000000000000        0x6 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .stack.descriptors
+                0x0000000000000000       0x2e g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text.__toupper_l
+                0x0000000000000000        0x6 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x38 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ __xc_reference_data
+                0x0000000000000000        0x6 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ .stack.descriptors
+                0x0000000000000000       0x1d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ __xc_reference_data
+                0x0000000000000000       0x2e g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ .comment       0x0000000000000000       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__io_fmt_needed.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .text.__pop_ptr
+                0x0000000000000000       0x94 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .comment       0x0000000000000000       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_ptr.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .stack.descriptors
+                0x0000000000000000       0x14 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .stack.descriptors
+                0x0000000000000000       0x14 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .stack.descriptors
+                0x0000000000000000       0xfb g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .text.__need_printf_64bit_arg_support
+                0x0000000000000000        0x2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x44 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .stack.descriptors
+                0x0000000000000000       0x4d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .stack.descriptors
+                0x0000000000000000       0x2e g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x2c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .stack.descriptors
+                0x0000000000000000       0x6a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+ .stack.descriptors
+                0x0000000000000000       0x14 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .stack.descriptors
+                0x0000000000000000       0x32 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .stack.descriptors
+                0x0000000000000000       0x2f g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .stack.descriptors
+                0x0000000000000000       0x2a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800060 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+bootrow          0x0000000000860000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/main.o
+LOAD build/default/production/MCAL/DIO/dio.o
+LOAD build/default/production/HAL/LCD/lcd.o
+START GROUP
+LOAD g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5\libatmega32.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __BOOTROW_REGION_LENGTH__ = DEFINED (__BOOTROW_REGION_LENGTH__)?__BOOTROW_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xb4
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000054        0xc data_init
+                0x0000000000000060                . = ALIGN (0x2)
+ *fill*         0x0000000000000060        0x0 
+                0x0000000000000060                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000060        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000060                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x0000000000000060                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000060                __ctors_start = .
+ *(.ctors)
+                0x0000000000000060                __ctors_end = .
+                0x0000000000000060                __dtors_start = .
+ *(.dtors)
+                0x0000000000000060                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000060        0x0 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+                0x0000000000000060                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000060        0xc G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000000000006c       0x3c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000000000006c                __do_copy_data
+                0x000000000000009a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000a8        0x8 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ *(.init9)
+                0x00000000000000b0                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000b0        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000000000000b0                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000b0        0x4 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000b4                _etext = .
+
+.data           0x0000000000800060        0x0 load address 0x00000000000000b4
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800060                . = ALIGN (0x2)
+                0x0000000000800060                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800060        0x2
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000800060        0x2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+                0x0000000000800060                __errno_val
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000b4                __data_load_start = LOADADDR (.data)
+                0x00000000000000b4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800062        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800062                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.bootrow
+ *(.bootrow*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/main.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/production/MCAL/DIO/dio.o
+ .comment       0x000000000000002f       0x30 build/default/production/HAL/LCD/lcd.o
+ .comment       0x000000000000002f       0x2c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+ .comment       0x000000000000005b       0x2d g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000      0x2ae
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .stack.descriptors.hdr
+                0x0000000000000070        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .stack.descriptors.hdr
+                0x000000000000007e        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .stack.descriptors.hdr
+                0x000000000000008c        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .stack.descriptors.hdr
+                0x000000000000009a        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+ .stack.descriptors.hdr
+                0x00000000000000a8        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+ .stack.descriptors.hdr
+                0x00000000000000b6        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .stack.descriptors.hdr
+                0x00000000000000c4        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ .stack.descriptors.hdr
+                0x00000000000000d2        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+ .stack.descriptors.hdr
+                0x00000000000000e0        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+ .stack.descriptors.hdr
+                0x00000000000000ee        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+ .stack.descriptors.hdr
+                0x00000000000000fc        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .stack.descriptors.hdr
+                0x000000000000010a        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .stack.descriptors.hdr
+                0x0000000000000118        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .stack.descriptors.hdr
+                0x0000000000000126        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+ .stack.descriptors.hdr
+                0x0000000000000134        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .stack.descriptors.hdr
+                0x0000000000000142        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .stack.descriptors.hdr
+                0x0000000000000150        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .stack.descriptors.hdr
+                0x000000000000015e        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .stack.descriptors.hdr
+                0x000000000000016c        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .stack.descriptors.hdr
+                0x000000000000017a        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .stack.descriptors.hdr
+                0x0000000000000188        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .stack.descriptors.hdr
+                0x0000000000000196        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .stack.descriptors.hdr
+                0x00000000000001a4        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .stack.descriptors.hdr
+                0x00000000000001b2        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .stack.descriptors.hdr
+                0x00000000000001c0        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .stack.descriptors.hdr
+                0x00000000000001ce        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .stack.descriptors.hdr
+                0x00000000000001dc        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .stack.descriptors.hdr
+                0x00000000000001ea        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .stack.descriptors.hdr
+                0x00000000000001f8        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .stack.descriptors.hdr
+                0x0000000000000206        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+ .stack.descriptors.hdr
+                0x0000000000000214        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .stack.descriptors.hdr
+                0x0000000000000222        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .stack.descriptors.hdr
+                0x0000000000000230        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .stack.descriptors.hdr
+                0x000000000000023e        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .stack.descriptors.hdr
+                0x000000000000024c        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .stack.descriptors.hdr
+                0x000000000000025a        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .stack.descriptors.hdr
+                0x0000000000000268        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .stack.descriptors.hdr
+                0x0000000000000276        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .stack.descriptors.hdr
+                0x0000000000000284        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .stack.descriptors.hdr
+                0x0000000000000292        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .stack.descriptors.hdr
+                0x00000000000002a0        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(errno.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xc8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x30 build/default/production/main.o
+ .debug_aranges
+                0x0000000000000030       0x48 build/default/production/MCAL/DIO/dio.o
+ .debug_aranges
+                0x0000000000000078       0x50 build/default/production/HAL/LCD/lcd.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x2418
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ .debug_info    0x00000000000004e6      0xdf8 build/default/production/main.o
+ .debug_info    0x00000000000012de      0x604 build/default/production/MCAL/DIO/dio.o
+ .debug_info    0x00000000000018e2      0xb36 build/default/production/HAL/LCD/lcd.o
+
+.debug_abbrev   0x0000000000000000      0x960
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x00000000000004a3      0x1e4 build/default/production/main.o
+ .debug_abbrev  0x0000000000000687       0xf2 build/default/production/MCAL/DIO/dio.o
+ .debug_abbrev  0x0000000000000779      0x1e7 build/default/production/HAL/LCD/lcd.o
+
+.debug_line     0x0000000000000000      0xb32
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x116 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ .debug_line    0x0000000000000116      0x494 build/default/production/main.o
+ .debug_line    0x00000000000005aa      0x24b build/default/production/MCAL/DIO/dio.o
+ .debug_line    0x00000000000007f5      0x33d build/default/production/HAL/LCD/lcd.o
+
+.debug_frame    0x0000000000000000      0x230
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x88 build/default/production/main.o
+ .debug_frame   0x0000000000000088       0x74 build/default/production/MCAL/DIO/dio.o
+ .debug_frame   0x00000000000000fc      0x134 build/default/production/HAL/LCD/lcd.o
+
+.debug_str      0x0000000000000000      0x205
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x196 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+ .debug_str     0x0000000000000196       0x3b build/default/production/main.o
+ .debug_str     0x00000000000001d1        0xc build/default/production/MCAL/DIO/dio.o
+ .debug_str     0x00000000000001dd       0x28 build/default/production/HAL/LCD/lcd.o
+
+.debug_loc      0x0000000000000000     0x107e
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x6f4 build/default/production/main.o
+ .debug_loc     0x00000000000006f4      0x2de build/default/production/MCAL/DIO/dio.o
+ .debug_loc     0x00000000000009d2      0x6ac build/default/production/HAL/LCD/lcd.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x98
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 build/default/production/main.o
+ .debug_ranges  0x0000000000000020       0x38 build/default/production/MCAL/DIO/dio.o
+ .debug_ranges  0x0000000000000058       0x40 build/default/production/HAL/LCD/lcd.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/test_avr.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+
+.text.__fmt_fp  0x00000000000000b4      0x72c
+ .text.__fmt_fp
+                0x00000000000000b4      0x72c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+                0x00000000000000b4                __fmt_f_needed
+                0x00000000000000b4                __fmt_fp
+
+.text.__fmt_a   0x00000000000007e0      0x632
+ .text.__fmt_a  0x00000000000007e0      0x632 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+                0x00000000000007e0                __fmt_a_needed
+                0x00000000000007e0                __fmt_a
+
+.text.vfpfcnvrt
+                0x0000000000000e12      0x408
+ .text.vfpfcnvrt
+                0x0000000000000e12      0x408 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x0000000000000e12                vfpfcnvrt
+
+.text.main      0x000000000000121a      0x3fa
+ .text.main     0x000000000000121a      0x3fa build/default/production/main.o
+                0x000000000000121a                main
+
+.text.__fmt_x   0x0000000000001614      0x280
+ .text.__fmt_x  0x0000000000001614      0x280 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x0000000000001614                __fmt_x
+
+.text.__fmt_d   0x0000000000001894      0x17e
+ .text.__fmt_d  0x0000000000001894      0x17e g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x0000000000001894                __fmt_d
+
+.text.__pop_int
+                0x0000000000001a12      0x172
+ .text.__pop_int
+                0x0000000000001a12      0x172 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x0000000000001a12                __pop_int
+
+.text.__cvt_u   0x0000000000001b84      0x158
+ .text.__cvt_u  0x0000000000001b84      0x158 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x0000000000001b84                __cvt_u
+
+.text.floorf    0x0000000000001cdc       0xe6
+ .text.floorf   0x0000000000001cdc       0xe6 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floorf.o)
+                0x0000000000001cdc                floorf
+
+.text           0x0000000000001dc2       0xde
+ .text          0x0000000000001dc2       0xde g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x0000000000001dc2                __divsf3x
+                0x0000000000001dea                __divsf3_pse
+
+.text.__pop_ptr
+                0x0000000000001ea0       0xd8
+ .text.__pop_ptr
+                0x0000000000001ea0       0xd8 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x0000000000001ea0                __pop_ptr
+
+.text           0x0000000000001f78       0xd4
+ .text          0x0000000000001f78       0xd4 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000000000001f78                __mulsf3x
+                0x0000000000001f9e                __mulsf3_pse
+
+.text.__fmt_o   0x000000000000204c       0xd2
+ .text.__fmt_o  0x000000000000204c       0xd2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x000000000000204c                __fmt_o
+
+.text           0x000000000000211e       0xce
+ .text          0x000000000000211e       0xce g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x000000000000211e                __addsf3x
+
+.text.__fmt_u   0x00000000000021ec       0xae
+ .text.__fmt_u  0x00000000000021ec       0xae g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+                0x00000000000021ec                __fmt_u
+
+.text.libgcc.div
+                0x000000000000229a       0xa2
+ .text.libgcc.div
+                0x000000000000229a       0xa2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+                0x000000000000229a                __udivmod64
+
+.text.lcd_write_text
+                0x000000000000233c       0x9c
+ .text.lcd_write_text
+                0x000000000000233c       0x9c build/default/production/HAL/LCD/lcd.o
+                0x000000000000233c                lcd_write_text
+
+.text.dio_pin_init
+                0x00000000000023d8       0x98
+ .text.dio_pin_init
+                0x00000000000023d8       0x98 build/default/production/MCAL/DIO/dio.o
+                0x00000000000023d8                dio_pin_init
+
+.text.fputc     0x0000000000002470       0x98
+ .text.fputc    0x0000000000002470       0x98 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x0000000000002470                fputc
+                0x0000000000002470                putc
+
+.text.lcd_init  0x0000000000002508       0x94
+ .text.lcd_init
+                0x0000000000002508       0x94 build/default/production/HAL/LCD/lcd.o
+                0x0000000000002508                lcd_init
+
+.text.vsnprintf
+                0x000000000000259c       0x84
+ .text.vsnprintf
+                0x000000000000259c       0x84 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vsnprintf.o)
+                0x000000000000259c                vsnprintf
+
+.text.__printf_core
+                0x0000000000002620       0x78
+ .text.__printf_core
+                0x0000000000002620       0x78 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x0000000000002620                __printf_core
+
+.text.__vsnprintf
+                0x0000000000002698       0x74
+ .text.__vsnprintf
+                0x0000000000002698       0x74 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsnprintf.o)
+                0x0000000000002698                __vsnprintf
+
+.text.__pad     0x000000000000270c       0x72
+ .text.__pad    0x000000000000270c       0x72 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x000000000000270c                __pad
+
+.text.dio_pin_write
+                0x000000000000277e       0x70
+ .text.dio_pin_write
+                0x000000000000277e       0x70 build/default/production/MCAL/DIO/dio.o
+                0x000000000000277e                dio_pin_write
+
+.text.lcd_write_num
+                0x00000000000027ee       0x6e
+ .text.lcd_write_num
+                0x00000000000027ee       0x6e build/default/production/HAL/LCD/lcd.o
+                0x00000000000027ee                lcd_write_num
+
+.text.lcd_write_bin
+                0x000000000000285c       0x6c
+ .text.lcd_write_bin
+                0x000000000000285c       0x6c build/default/production/main.o
+                0x000000000000285c                lcd_write_bin
+
+.text.lcd_write_cmd
+                0x00000000000028c8       0x64
+ .text.lcd_write_cmd
+                0x00000000000028c8       0x64 build/default/production/HAL/LCD/lcd.o
+
+.text           0x000000000000292c       0x5e
+ .text          0x000000000000292c       0x5e g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000000000000292c                __fixunssfsi
+
+.text.lcd_write_hex
+                0x000000000000298a       0x5c
+ .text.lcd_write_hex
+                0x000000000000298a       0x5c build/default/production/main.o
+                0x000000000000298a                lcd_write_hex
+
+.text.read_prec_or_width
+                0x00000000000029e6       0x5c
+ .text.read_prec_or_width
+                0x00000000000029e6       0x5c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+
+.text.lcd_output_nibble
+                0x0000000000002a42       0x54
+ .text.lcd_output_nibble
+                0x0000000000002a42       0x54 build/default/production/HAL/LCD/lcd.o
+
+.text.__fmt_s   0x0000000000002a96       0x54
+ .text.__fmt_s  0x0000000000002a96       0x54 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+                0x0000000000002a96                __fmt_s
+                0x0000000000002a96                __fmt_0_needed
+                0x0000000000002a96                __fmt_s_needed
+
+.text           0x0000000000002aea       0x48
+ .text          0x0000000000002aea       0x48 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x0000000000002aea                __fp_cmp
+
+.text           0x0000000000002b32       0x44
+ .text          0x0000000000002b32       0x44 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000000000002b32                __fp_split3
+                0x0000000000002b42                __fp_splitA
+
+.text.__fmt_state
+                0x0000000000002b76       0x40
+ .text.__fmt_state
+                0x0000000000002b76       0x40 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x0000000000002b76                __fmt_state
+
+.text.__pop_float
+                0x0000000000002bb6       0x40
+ .text.__pop_float
+                0x0000000000002bb6       0x40 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__pop_float.o)
+                0x0000000000002bb6                __pop_float_needed
+                0x0000000000002bb6                __pop_float
+
+.text.libgcc.builtins
+                0x0000000000002bf6       0x3c
+ .text.libgcc.builtins
+                0x0000000000002bf6       0x3c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                0x0000000000002bf6                __ashrdi3
+                0x0000000000002bfa                __lshrdi3
+
+.text.__out     0x0000000000002c32       0x3a
+ .text.__out    0x0000000000002c32       0x3a g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+                0x0000000000002c32                __out
+
+.text.libgcc.prologue
+                0x0000000000002c6c       0x38
+ .text.libgcc.prologue
+                0x0000000000002c6c       0x38 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x0000000000002c6c                __prologue_saves__
+
+.text.libgcc.prologue
+                0x0000000000002ca4       0x36
+ .text.libgcc.prologue
+                0x0000000000002ca4       0x36 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x0000000000002ca4                __epilogue_restores__
+
+.text.vfprintf  0x0000000000002cda       0x30
+ .text.vfprintf
+                0x0000000000002cda       0x30 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf.o)
+                0x0000000000002cda                vfprintf
+
+.text.__vfprintf
+                0x0000000000002d0a       0x30
+ .text.__vfprintf
+                0x0000000000002d0a       0x30 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vfprintf.o)
+                0x0000000000002d0a                __vfprintf
+
+.text.lcd_set_pos
+                0x0000000000002d3a       0x2e
+ .text.lcd_set_pos
+                0x0000000000002d3a       0x2e build/default/production/HAL/LCD/lcd.o
+                0x0000000000002d3a                lcd_set_pos
+
+.text.snprintf  0x0000000000002d68       0x28
+ .text.snprintf
+                0x0000000000002d68       0x28 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
+                0x0000000000002d68                snprintf
+
+.text.libgcc.div
+                0x0000000000002d90       0x28
+ .text.libgcc.div
+                0x0000000000002d90       0x28 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x0000000000002d90                _div
+                0x0000000000002d90                __divmodhi4
+
+.text.libgcc.div
+                0x0000000000002db8       0x28
+ .text.libgcc.div
+                0x0000000000002db8       0x28 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000000000002db8                __udivmodhi4
+
+.text.__wrap_sprintf
+                0x0000000000002de0       0x24
+ .text.__wrap_sprintf
+                0x0000000000002de0       0x24 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__sio_sprintf_doux.o)
+                0x0000000000002de0                _sprintf_cdopuxX
+
+.text           0x0000000000002e04       0x22
+ .text          0x0000000000002e04       0x22 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000000000002e04                __fp_round
+
+.text.libgcc    0x0000000000002e26       0x20
+ .text.libgcc   0x0000000000002e26       0x20 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+                0x0000000000002e26                __negdi2
+
+.text.strlen    0x0000000000002e46       0x1c
+ .text.strlen   0x0000000000002e46       0x1c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x0000000000002e46                strlen
+
+.text.libgcc.div
+                0x0000000000002e62       0x1c
+ .text.libgcc.div
+                0x0000000000002e62       0x1c g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+                0x0000000000002e62                __umoddi3
+                0x0000000000002e66                __udivdi3
+                0x0000000000002e68                __udivdi3_umoddi3
+
+.text.libgcc    0x0000000000002e7e       0x18
+ .text.libgcc   0x0000000000002e7e       0x18 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                0x0000000000002e7e                __cmpdi2_s8
+
+.text.exit      0x0000000000002e96       0x16
+ .text.exit     0x0000000000002e96       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x0000000000002e96                exit
+
+.text.toupper   0x0000000000002eac       0x12
+ .text.toupper  0x0000000000002eac       0x12 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(toupper.o)
+                0x0000000000002eac                toupper
+
+.text.memset    0x0000000000002ebe       0x12
+ .text.memset   0x0000000000002ebe       0x12 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x0000000000002ebe                memset
+
+.text.tolower   0x0000000000002ed0       0x10
+ .text.tolower  0x0000000000002ed0       0x10 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(tolower.o)
+                0x0000000000002ed0                tolower
+
+.text.strcpy    0x0000000000002ee0       0x10
+ .text.strcpy   0x0000000000002ee0       0x10 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                0x0000000000002ee0                strcpy
+
+.text.__vsprintf
+                0x0000000000002ef0        0xe
+ .text.__vsprintf
+                0x0000000000002ef0        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__int_vsprintf.o)
+                0x0000000000002ef0                __vsprintf
+
+.text           0x0000000000002efe        0xe
+ .text          0x0000000000002efe        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x0000000000002efe                __subsf3
+                0x0000000000002f00                __addsf3
+
+.text           0x0000000000002f0c        0xe
+ .text          0x0000000000002f0c        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x0000000000002f0c                __fixsfsi
+
+.text           0x0000000000002f1a        0xe
+ .text          0x0000000000002f1a        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000000000002f1a                __fp_pscA
+
+.text           0x0000000000002f28        0xe
+ .text          0x0000000000002f28        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000000000002f28                __fp_pscB
+
+.text           0x0000000000002f36        0xe
+ .text          0x0000000000002f36        0xe g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000000000002f36                __fp_zero
+                0x0000000000002f38                __fp_szero
+
+.text           0x0000000000002f44        0xc
+ .text          0x0000000000002f44        0xc g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000000000002f44                __fp_inf
+
+.text           0x0000000000002f50        0xa
+ .text          0x0000000000002f50        0xa g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000000000002f50                __nesf2
+                0x0000000000002f50                __eqsf2
+                0x0000000000002f50                __cmpsf2
+                0x0000000000002f50                __ltsf2
+                0x0000000000002f50                __lesf2
+
+.text           0x0000000000002f5a        0xa
+ .text          0x0000000000002f5a        0xa g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000000000002f5a                __gesf2
+                0x0000000000002f5a                __gtsf2
+
+.text           0x0000000000002f64        0x8
+ .text          0x0000000000002f64        0x8 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x0000000000002f64                __divsf3
+
+.text           0x0000000000002f6c        0x8
+ .text          0x0000000000002f6c        0x8 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x0000000000002f6c                __mulsf3
+
+.text           0x0000000000002f74        0x6
+ .text          0x0000000000002f74        0x6 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000000000002f74                __fp_nan
+
+.text           0x0000000000002f7a        0x4
+ .text          0x0000000000002f7a        0x4 G:/Captures/MPLAB/packs/Microchip/ATmega_DFP/3.1.264/xc8/avr/lib/avr5/crtatmega32.o
+                0x0000000000002f7a                __vector_1
+                0x0000000000002f7a                __vector_12
+                0x0000000000002f7a                __bad_interrupt
+                0x0000000000002f7a                __vector_6
+                0x0000000000002f7a                __vector_3
+                0x0000000000002f7a                __vector_11
+                0x0000000000002f7a                __vector_13
+                0x0000000000002f7a                __vector_17
+                0x0000000000002f7a                __vector_19
+                0x0000000000002f7a                __vector_7
+                0x0000000000002f7a                __vector_5
+                0x0000000000002f7a                __vector_4
+                0x0000000000002f7a                __vector_9
+                0x0000000000002f7a                __vector_2
+                0x0000000000002f7a                __vector_15
+                0x0000000000002f7a                __vector_8
+                0x0000000000002f7a                __vector_14
+                0x0000000000002f7a                __vector_10
+                0x0000000000002f7a                __vector_16
+                0x0000000000002f7a                __vector_18
+                0x0000000000002f7a                __vector_20
+
+.text._Exit     0x0000000000002f7e        0x4
+ .text._Exit    0x0000000000002f7e        0x4 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(_Exit.o)
+                0x0000000000002f7e                _Exit
+
+.text.__dummy_fini
+                0x0000000000002f82        0x2
+ .text.__dummy_fini
+                0x0000000000002f82        0x2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x0000000000002f82                _fini
+
+.text.__dummy_funcs_on_exit
+                0x0000000000002f84        0x2
+ .text.__dummy_funcs_on_exit
+                0x0000000000002f84        0x2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x0000000000002f84                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x0000000000002f86        0x2
+ .text.__dummy_simulator_exit
+                0x0000000000002f86        0x2 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(exit.o)
+                0x0000000000002f86                __simulator_exit
+
+.rodata         0x0000000000800062       0x3a load address 0x0000000000002f88
+ .rodata        0x0000000000800062       0x3a build/default/production/main.o
+
+.rodata.state_table
+                0x000000000080009c       0x16 load address 0x0000000000002fc2
+ .rodata.state_table
+                0x000000000080009c       0x16 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_core.o)
+
+.rodata         0x00000000008000b2       0x10 load address 0x0000000000002fd8
+ .rodata        0x00000000008000b2       0x10 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_a.o)
+
+.rodata         0x00000000008000c2       0x10 load address 0x0000000000002fe8
+ .rodata        0x00000000008000c2       0x10 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_fp.o)
+
+.rodata.dio_ports
+                0x00000000008000d2        0x8 load address 0x0000000000002ff8
+ .rodata.dio_ports
+                0x00000000008000d2        0x8 build/default/production/MCAL/DIO/dio.o
+
+.rodata.nuls.2781
+                0x00000000008000da        0x7 load address 0x0000000000003000
+ .rodata.nuls.2781
+                0x00000000008000da        0x7 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__fmt_s.o)
+
+.rodata.nilstr.3022
+                0x00000000008000e1        0x6 load address 0x0000000000003007
+ .rodata.nilstr.3022
+                0x00000000008000e1        0x6 g:/captures/xc_compiler/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(__printf_64bit_arg_support.o)
+
+.rodata         0x00000000008000e7        0x3 load address 0x000000000000300d
+ .rodata        0x00000000008000e7        0x3 build/default/production/HAL/LCD/lcd.o
